@@ -29,36 +29,12 @@
       "country": "India",
       "emoji": "🇮🇳",
       "date": "2021-07-15T08:22:53.976Z",
-      "notes": "",
+      "notes": "City that never sleeps",
       "position": {
         "lat": 19.070368743103284,
         "lng": 72.88604736328126
       },
       "id": 17806751
-    },
-    {
-      "cityName": "Moscow",
-      "country": "Russian Federation (the)",
-      "emoji": "🇷🇺",
-      "date": "2023-11-16T06:15:18.780Z",
-      "notes": "A memorable trip during War time!",
-      "position": {
-        "lat": "55.63027679439732",
-        "lng": "37.79296875000001"
-      },
-      "id": 98443202
-    },
-    {
-      "cityName": "Merta",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2023-11-17T18:30:47.632Z",
-      "notes": "",
-      "position": {
-        "lat": "26.765843679254335",
-        "lng": "73.72142391025854"
-      },
-      "id": 98443203
     }
   ]
 }
